@@ -116,20 +116,9 @@ escrever("Mensagem enviada com sucesso!")
 python bot.py
 ```
 
----
-
-## 📌 Melhorias Futuras
-- [ ] Criar um sistema de agendamento para enviar ofertas automaticamente
-- [ ] Melhorar o formato das mensagens
-- [ ] Adicionar suporte para mais categorias de produtos
-
----
-
 ## 🤝 Contribuição
 Sinta-se à vontade para contribuir! Faça um **fork**, crie uma **branch** e envie um **pull request**. 😃
 
----
 
-## 📜 Licença
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE`.
+
 
