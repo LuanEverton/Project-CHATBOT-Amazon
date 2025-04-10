@@ -38,37 +38,7 @@ Antes de rodar o projeto, você precisa configurar algumas credenciais:
 
 ---
 
-## 🔧 Instalação
-Clone o repositório e instale as dependências:
-```bash
-# Clonar o repositório
-git clone https://github.com/seu-usuario/bot-amazon-whatsapp.git
-cd bot-amazon-whatsapp
 
-# Criar ambiente virtual (opcional)
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate  # Windows
-
-# Instalar bibliotecas
-pip install -r requirements.txt
-```
-
-Crie um arquivo `.env` com suas credenciais:
-```env
-AWS_ACCESS_KEY=SEU_ACCESS_KEY
-AWS_SECRET_KEY=SEU_SECRET_KEY
-ASSOCIATE_TAG=SEU_ASSOCIATE_TAG
-
-TWILIO_SID=SEU_TWILIO_SID
-TWILIO_AUTH_TOKEN=SEU_TWILIO_AUTH_TOKEN
-TWILIO_WHATSAPP_NUMBER=whatsapp:+14155238886
-WHATSAPP_GROUP_NUMBER=whatsapp:+SEU_NUMERO
-
-OPENAI_API_KEY=SUA_OPENAI_API_KEY
-```
-
----
 
 ## 🏗️ Algoritmo do Chatbot (Portugol)
 ```portugol
